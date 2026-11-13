@@ -11,4 +11,4 @@ Python • Flask • React • MongoDB • Git
 - AI Resume Analyzer (coming soon)
 
 ## Contact
-- Email: mehaliisingh08@gmail.com
+- Email: mehaliisingh13@gmail.com
